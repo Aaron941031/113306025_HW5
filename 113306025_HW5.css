@@ -25,8 +25,8 @@ body{
     align-items: center;
 }
 
-.photo-panel {;
-    width: 330px;
+.my-picture {
+  width: 330px;
 }
 
 .photo-panel {
@@ -65,7 +65,7 @@ h1 {
 
 .edu-column {
   display: grid;
-  grid-template-columns: 100px 400px;
+  grid-template-columns: 60px 400px;
 }
 
 .year {
